@@ -10,7 +10,7 @@ Just a simple code for [WIFI Password](https://github.com/GauravGupta256/WIFI-Pa
 
 ## Demo
 
-[Click here to access demo](WIFI-Password.vercel.app/)
+[Click here to access demo](https://WIFI-Password.vercel.app/)
 
 ## 🚀 About Me
 Soon...
